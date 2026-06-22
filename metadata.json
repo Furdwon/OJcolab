@@ -1,0 +1,6 @@
+{
+  "name": "OJColab",
+  "description": "Run and manage Google Colab notebooks from your phone with a clean tactile floating control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
